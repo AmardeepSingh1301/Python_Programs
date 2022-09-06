@@ -1,5 +1,5 @@
-# from playsound import playsound
-# playsound('C:\\Users\\Amar Singh\\Downloads\\close.mp3')
+#Sanake Water Gun Game
+
 import random
 def game(comp,you):
     if comp==you:
